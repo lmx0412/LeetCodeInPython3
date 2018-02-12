@@ -1,7 +1,6 @@
 # LeetCodeInPython3
 
-### 说明
-留个空：
+### List
 
 | Number | Problem       | Level  | Language  |
 |:-------:|:--------------|:------:|:---------:|
