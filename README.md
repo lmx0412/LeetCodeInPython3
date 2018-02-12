@@ -7,7 +7,7 @@
 
 ### List
 
-| Number | Problem       | Level  | Language  |
+| Number |  Problem  |   Solution    | Level  | Language  |
 |:-------:|:--------------|:------:|:---------:|
-|1|[Two Sum](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Two%20Sum.py)|Easy|Python3|
-|1|[]()||Python3|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Two Sum.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Two%20Sum.py)|Easy|Python3|
+|2||[]()||Python3|
