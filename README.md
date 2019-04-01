@@ -16,8 +16,8 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Roman_to_Integer.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Roman_to_Integer.md)|[Roman_to_Integer.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Roman_to_Integer.py)|Easy|Python3|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Longest_Common_Prefix.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Longest_Common_Prefix.md)|[Longest_Common_Prefix.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Longest_Common_Prefix.py)|Easy|Python3|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Valid_Parentheses.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Valid_Parentheses.md)|[Valid_Parentheses.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Valid_Parentheses.py)|Easy|Python3|
-|7|[]()|[]()|[]()|Easy|Python3|
-|7|[]()|[]()|[]()|Easy|Python3|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Merge_Two_Sorted_Lists.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Merge_Two_Sorted_Lists.md)|[Merge_Two_Sorted_Lists.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Merge_Two_Sorted_Lists.py)|Easy|Python3|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Remove_Duplicates_from_Sorted_Array.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Remove_Duplicates_from_Sorted_Array.md)|[Remove_Duplicates_from_Sorted_Array.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Remove_Duplicates_from_Sorted_Array.py)|Easy|Python3|
 |7|[]()|[]()|[]()|Easy|Python3|
 |7|[]()|[]()|[]()|Easy|Python3|
 |7|[]()|[]()|[]()|Easy|Python3|
