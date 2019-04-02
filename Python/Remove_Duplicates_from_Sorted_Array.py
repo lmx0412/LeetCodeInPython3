@@ -54,7 +54,7 @@ class Solution:
             else:
                 cur += 1
 
-        return len(nums)
+        return nums
 
 class MyTest(unittest.TestCase):
     def test_example1(self):
@@ -66,23 +66,6 @@ class MyTest(unittest.TestCase):
         solution = Solution()
         self.assertEqual(solution.removeDuplicates(num2), [0, 1, 2, 3, 4])
         self.assertEqual(len(solution.removeDuplicates(num2)), 5)
-
-    # def test_example3(self):
-    #     solution = Solution()
-    #     self.assertEqual(solution.mergeTwoLists(s3), False)
-
-    # def test_example4(self):
-    #     solution = Solution()
-    #     self.assertEqual(solution.mergeTwoLists(s4), False)
-
-    # def test_example5(self):
-    #     solution = Solution()
-    #     self.assertEqual(solution.mergeTwoLists(s5), True)
-
-    # def test_example6(self):
-    #     solution = Solution()
-    #     self.assertEqual(solution.mergeTwoLists(s6), False)
-
 
 if __name__ == '__main__':
     unittest.main()
