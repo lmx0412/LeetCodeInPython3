@@ -22,7 +22,7 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Search_Insert_Position.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Search_Insert_Position.md)|[Search_Insert_Position.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Search_Insert_Position.py)|Easy|Python3|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Count_and_Say.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Count_and_Say.md)|[Count_and_Say.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Count_and_Say.py)|Easy|Python3|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Maximum_Subarray.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Maximum_Subarray.md)|[Maximum_Subarray.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Maximum_Subarray.py)|Easy|Python3|
-||[]()|[]()|[]()|Easy|Python3|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Length_of_Last_Word.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Length_of_Last_Word.md)|[Length_of_Last_Word.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Length_of_Last_Word.py)|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
