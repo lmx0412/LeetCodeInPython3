@@ -26,7 +26,7 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Plus_One.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Plus_One.md)|[Plus_One.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Plus_One.py)|Easy|Python3|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Add_Binary.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Add_Binary.md)|[Add_Binary.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Add_Binary.py)|Easy|Python3|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Sqrt(x).md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Sqrt(x).md)|[Sqrt(x).py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Sqrt(x).py)|Easy|Python3|
-||[]()|[]()|[]()|Easy|Python3|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Climbing_Stairs.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Climbing_Stairs.md)|[Climbing_Stairs.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Climbing_Stairs.py)|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
