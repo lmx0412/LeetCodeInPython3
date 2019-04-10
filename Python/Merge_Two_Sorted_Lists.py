@@ -18,7 +18,6 @@ class ListNode:
         self.next = None
 
 
-l2 = [1, 3, 4]
 l1 = ListNode(1)
 l1.next = ListNode(2)
 l1.next.next = ListNode(4)

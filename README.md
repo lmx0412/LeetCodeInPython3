@@ -27,7 +27,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Add_Binary.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Add_Binary.md)|[Add_Binary.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Add_Binary.py)|Easy|Python3|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Sqrt(x).md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Sqrt(x).md)|[Sqrt(x).py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Sqrt(x).py)|Easy|Python3|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Climbing_Stairs.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Climbing_Stairs.md)|[Climbing_Stairs.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Climbing_Stairs.py)|Easy|Python3|
-||[]()|[]()|[]()|Easy|Python3|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Remove_Duplicates_from_Sorted_List.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Remove_Duplicates_from_Sorted_List.md)|[Remove_Duplicates_from_Sorted_List.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Remove_Duplicates_from_Sorted_List.py)|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
