@@ -22,6 +22,7 @@ strs1 = ["flower", "flow", "flight"]
 strs2 = ["dog", "racecar", "car"]
 strs3 = []
 strs4 = ["aca", "cba"]
+strs5 = ["abcd", "ahtrf"]
 
 class Solution:
     def longestCommonPrefix(self, strs):
@@ -32,20 +33,12 @@ class Solution:
         res = ""
         if not strs:
             return ""
-        minlen = len(strs[0])
-        for item in strs:
-            if len(item) < minlen:
-                minlen = len(item)
-        
-        for i in range(minlen):
-            tmp = strs[0][i]
-            for item in strs:
-                if item[i] != tmp:
-                    tmp = ""
-                    res += tmp
-                    return res
-            res += tmp
-        return res
+
+        for i, letter_group in enumerate(zip(*strs)):
+            if len(set(letter_group)) > 1:
+                return strs[0][:i]
+        else:
+            return min(strs)
 
 
 class MyTest(unittest.TestCase):
@@ -65,9 +58,9 @@ class MyTest(unittest.TestCase):
         solution = Solution()
         self.assertEqual(solution.longestCommonPrefix(strs4), "")
 
-    # def test_example5(self):
-    #     solution = Solution()
-    #     self.assertEqual(solution.longestCommonPrefix(s5), 1994)
+    def test_example5(self):
+        solution = Solution()
+        self.assertEqual(solution.longestCommonPrefix(strs5), "a")
 
 
 if __name__ == '__main__':
