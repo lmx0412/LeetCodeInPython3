@@ -13,7 +13,6 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Reverse_Integer.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Reverse_Integer.md)|[Reverse_Integer](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Reverse_Integer.py)|Easy|Python3|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Palindrome_Number.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Palindrome_Number.md)|[Palindrome_Number.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Palindrome_Number.py)|Easy|Python3|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Roman_to_Integer.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Roman_to_Integer.md)|[Roman_to_Integer.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Roman_to_Integer.py)|Easy|Python3|
-
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Valid_Parentheses.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Valid_Parentheses.md)|[Valid_Parentheses.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Valid_Parentheses.py)|Easy|Python3|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Merge_Two_Sorted_Lists.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Merge_Two_Sorted_Lists.md)|[Merge_Two_Sorted_Lists.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Merge_Two_Sorted_Lists.py)|Easy|Python3|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Remove_Duplicates_from_Sorted_Array.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Remove_Duplicates_from_Sorted_Array.md)|[Remove_Duplicates_from_Sorted_Array.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Remove_Duplicates_from_Sorted_Array.py)|Easy|Python3|
@@ -22,7 +21,6 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Search_Insert_Position.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Search_Insert_Position.md)|[Search_Insert_Position.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Search_Insert_Position.py)|Easy|Python3|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Count_and_Say.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Count_and_Say.md)|[Count_and_Say.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Count_and_Say.py)|Easy|Python3|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Maximum_Subarray.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Maximum_Subarray.md)|[Maximum_Subarray.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Maximum_Subarray.py)|Easy|Python3|
-
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Plus_One.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Plus_One.md)|[Plus_One.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Plus_One.py)|Easy|Python3|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Add_Binary.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Add_Binary.md)|[Add_Binary.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Add_Binary.py)|Easy|Python3|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Sqrt(x).md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Sqrt(x).md)|[Sqrt(x).py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Sqrt(x).py)|Easy|Python3|
@@ -36,45 +34,56 @@
 
 #### 数组
 ##### 数组遍历
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[485_Max_Consecutive_Ones.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/485_Max_Consecutive_Ones.md)|[485_Max_Consecutive_Ones.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/485_Max_Consecutive_Ones.py)|Easy|Python3|
-
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Teemo_Attacking.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Teemo_Attacking.md)|[Teemo_Attacking.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Teemo_Attacking.py)|Easy|Python3|
-
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[third_maximum_number.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/third_maximum_number.md)|[third_maximum_number.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/third_maximum_number.py)|Easy|Python3|
-
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[maximum_product_of_three_numbers.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/maximum_product_of_three_numbers.md)|[maximum_product_of_three_numbers.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/maximum_product_of_three_numbers.py)|Easy|Python3|
 
 #####统计数组中元素
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[set_mismatch.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/set_mismatch.md)|[set_mismatch.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/set_mismatch.py)|Easy|Python3|
-
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[degree_of_an_array.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/degree_of_an_array.md)|[degree_of_an_array.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/degree_of_an_array.py)|Easy|Python3|
-
 
 #### 字符串
 ##### 字符
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[detect_capital.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/detect_capital.md)|[detect_capital.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/detect_capital.py)|Easy|Python3|
 
 ##### 回文字符串
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[valid_palindrome.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/valid_palindrome.md)|[valid_palindrome.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/valid_palindrome.py)|Easy|Python3|
 
 ##### 公共前缀
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Longest_Common_Prefix.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Longest_Common_Prefix.md)|[Longest_Common_Prefix.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Longest_Common_Prefix.py)|Easy|Python3|
 
 ##### 单词
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[number_of_segments_in_a_string.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/number_of_segments_in_a_string.md)|[number_of_segments_in_a_string.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/number_of_segments_in_a_string.py)|Easy|Python3|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Length_of_Last_Word.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Length_of_Last_Word.md)|[Length_of_Last_Word.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Length_of_Last_Word.py)|Easy|Python3|
 
 ##### 字符串反转
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[reverse_string.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/reverse_string.md)|[reverse_string.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/reverse_string.py)|Easy|Python3|
-
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[reverse_string_ii.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/reverse_string_ii.md)|[reverse_string_ii.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/reverse_string_ii.py)|Easy|Python3|
 
 ##### 字符串统计
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[first_unique_character_in_a_string.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/first_unique_character_in_a_string.md)|[first_unique_character_in_a_string.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/first_unique_character_in_a_string.py)|Easy|Python3|
-
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[find_the_difference.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/find_the_difference.md)|[find_the_difference.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/find_the_difference.py)|Easy|Python3|
 
 ##### 数字与字符串转换
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[bulls_and_cows.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/bulls_and_cows.md)|[bulls_and_cows.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/bulls_and_cows.py)|Easy|Python3|
 
 
