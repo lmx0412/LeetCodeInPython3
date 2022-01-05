@@ -56,6 +56,7 @@ class Solution:
 
         return nums
 
+
 class MyTest(unittest.TestCase):
     def test_example1(self):
         solution = Solution()

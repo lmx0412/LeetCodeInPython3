@@ -28,13 +28,36 @@
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Sqrt(x).md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Sqrt(x).md)|[Sqrt(x).py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Sqrt(x).py)|Easy|Python3|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Climbing_Stairs.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Climbing_Stairs.md)|[Climbing_Stairs.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Climbing_Stairs.py)|Easy|Python3|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Remove_Duplicates_from_Sorted_List.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Remove_Duplicates_from_Sorted_List.md)|[Remove_Duplicates_from_Sorted_List.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Remove_Duplicates_from_Sorted_List.py)|Easy|Python3|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Merge_Sorted_Array.md]((https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Merge_Sorted_Array.md)|[Merge_Sorted_Array.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Merge_Sorted_Array.py)|Easy|Python3|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Merge_Sorted_Array.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Merge_Sorted_Array.md)|[Merge_Sorted_Array.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Merge_Sorted_Array.py)|Easy|Python3|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Same_Tree.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Same_Tree.md)|[Same_Tree.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Same_Tree.py)|Easy|Python3|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Symmetric_Tree.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Symmetric_Tree.md)|[Symmetric_Tree.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Symmetric_Tree.py)|Easy|Python3|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Maximum_Depth_of_Binary_Tree.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Maximum_Depth_of_Binary_Tree.md)|[Maximum_Depth_of_Binary_Tree.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Maximum_Depth_of_Binary_Tree.py)|Easy|Python3|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[binary_tree_level_order_traversal_ii.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/binary_tree_level_order_traversal_ii.md)|[binary_tree_level_order_traversal_ii.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/binary_tree_level_order_traversal_ii.py)|Easy|Python3|
-||[]()|[]()|[]()|Easy|Python3|
-||[]()|[]()|[]()|Easy|Python3|
+
+#### 数组
+##### 数组遍历
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[485_Max_Consecutive_Ones.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/485_Max_Consecutive_Ones.md)|[485_Max_Consecutive_Ones.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/485_Max_Consecutive_Ones.py)|Easy|Python3|
+
+|495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Teemo_Attacking.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Teemo_Attacking.md)|[Teemo_Attacking.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Teemo_Attacking.py)|Easy|Python3|
+
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[third_maximum_number.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/third_maximum_number.md)|[third_maximum_number.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/third_maximum_number.py)|Easy|Python3|
+
+|628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[maximum_product_of_three_numbers.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/maximum_product_of_three_numbers.md)|[maximum_product_of_three_numbers.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/maximum_product_of_three_numbers.py)|Easy|Python3|
+
+#####统计数组中元素
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[set_mismatch.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/set_mismatch.md)|[set_mismatch.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/set_mismatch.py)|Easy|Python3|
+
+|697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[degree_of_an_array.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/degree_of_an_array.md)|[degree_of_an_array.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/degree_of_an_array.py)|Easy|Python3|
+
+
+#### 字符串
+##### 字符
+|520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[detect_capital.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/detect_capital.md)|[detect_capital.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/detect_capital.py)|Easy|Python3|
+#####回文字符串
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[valid_palindrome.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/valid_palindrome.md)|[valid_palindrome.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/valid_palindrome.py)|Easy|Python3|
+
+
+
 ||[]()|[]()|[]()|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
