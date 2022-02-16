@@ -43,16 +43,35 @@ secret and guess consist of digits only.
 
 class Solution:
     def getHint(self, secret: str, guess: str) -> str:
-        pass
+        bulls, cows = 0, 0
+        secret, guess = list(secret), list(guess)
+        i = 0
+        while True:
+            if i == len(secret):
+                break
+            if secret[i] == guess[i]:
+                bulls += 1
+                secret.pop(i)
+                guess.pop(i)
+
+            else:
+                i += 1
+        
+        for i, c in enumerate(secret):
+            if c in guess:
+                cows += 1
+                guess.remove(c)
+        
+        return "%dA%dB" % (bulls, cows)
 
 class MyTest(unittest.TestCase):
     def test_example1(self):
         solution = Solution()
-        self.assertEqual("e", solution.findTheDifference_better(s="abcd", t="abcde"))
+        self.assertEqual("1A3B", solution.getHint(secret="1807", guess="7810"))
 
     def test_example2(self):
         solution = Solution()
-        self.assertEqual("y", solution.findTheDifference_better(s="", t="y"))
+        self.assertEqual("1A1B", solution.getHint(secret="1123", guess="0111"))
 
 
 if __name__ == '__main__':

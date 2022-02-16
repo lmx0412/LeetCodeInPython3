@@ -21,8 +21,7 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Search_Insert_Position.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Search_Insert_Position.md)|[Search_Insert_Position.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Search_Insert_Position.py)|Easy|Python3|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Count_and_Say.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Count_and_Say.md)|[Count_and_Say.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Count_and_Say.py)|Easy|Python3|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Maximum_Subarray.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Maximum_Subarray.md)|[Maximum_Subarray.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Maximum_Subarray.py)|Easy|Python3|
-|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Plus_One.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Plus_One.md)|[Plus_One.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Plus_One.py)|Easy|Python3|
-|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Add_Binary.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Add_Binary.md)|[Add_Binary.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Add_Binary.py)|Easy|Python3|
+
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Sqrt(x).md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Sqrt(x).md)|[Sqrt(x).py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Sqrt(x).py)|Easy|Python3|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Climbing_Stairs.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Climbing_Stairs.md)|[Climbing_Stairs.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Climbing_Stairs.py)|Easy|Python3|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Remove_Duplicates_from_Sorted_List.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Remove_Duplicates_from_Sorted_List.md)|[Remove_Duplicates_from_Sorted_List.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Remove_Duplicates_from_Sorted_List.py)|Easy|Python3|
@@ -46,6 +45,7 @@
 |:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[set_mismatch.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/set_mismatch.md)|[set_mismatch.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/set_mismatch.py)|Easy|Python3|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[degree_of_an_array.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/degree_of_an_array.md)|[degree_of_an_array.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/degree_of_an_array.py)|Easy|Python3|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)|[find_all_numbers_disappeared_in_an_array.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/find_all_numbers_disappeared_in_an_array.md)|[find_all_numbers_disappeared_in_an_array.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/find_all_numbers_disappeared_in_an_array.py)|Easy|Python3|
 
 #### 字符串
 ##### 字符
@@ -84,8 +84,42 @@
 ##### 数字与字符串转换
 | Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
 |:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
-|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[bulls_and_cows.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/bulls_and_cows.md)|[bulls_and_cows.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/bulls_and_cows.py)|Easy|Python3|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[bulls_and_cows.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/bulls_and_cows.md)|[bulls_and_cows.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/bulls_and_cows.py)|Medium|Python3|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[fizz_buzz.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/fizz_buzz.md)|[fizz_buzz.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/fizz_buzz.py)|Easy|Python3|
 
+##### 子序列
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[is_subsequence.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/is_subsequence.md)|[is_subsequence.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/is_subsequence.py)|Medium|Python3|
+
+##### 高精度运算
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Plus_One.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Plus_One.md)|[Plus_One.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Plus_One.py)|Easy|Python3|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Add_Binary.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/Add_Binary.md)|[Add_Binary.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/Add_Binary.py)|Easy|Python3|
+
+##### 字符串变换
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
+
+
+
+
+#### 图与搜索
+##### BFS
+
+| Number |  Problem  |  Summary  |   Solution    | Level  | Language  |
+|:-------:|:-------------:|:--------------:|:--------------:|:------:|:---------:|
+```没做完```
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[clone_graph.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/clone_graph.md)|[clone_graph.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/clone_graph.py)|Medium|Python3|
+
+
+
+
+#### 常用技巧与算法
+##### 排序
+```没做完```
+|133|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[insertion_sort_list.py](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Summary/insertion_sort_list.md)|[insertion_sort_list.md](https://github.com/lmx0412/LeetCodeInPython3/blob/master/Python/insertion_sort_list.py)|Medium|Python3|
 
 ||[]()|[]()|[]()|Easy|Python3|
 ||[]()|[]()|[]()|Easy|Python3|
